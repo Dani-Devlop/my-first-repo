@@ -1,0 +1,9 @@
+total 16
+drwxrwxr-x 3 kalid kalid 4096 Aug  2 12:50 .
+drwxrwxr-x 4 kalid kalid 4096 Aug  2 11:24 ..
+-rw-rw-r-- 1 kalid kalid    0 Aug  2 12:48 feature.txt
+drwxrwxr-x 8 kalid kalid 4096 Aug  2 12:48 .git
+-rw-rw-r-- 1 kalid kalid    0 Aug  1 17:27 in.txt
+-rw-rw-r-- 1 kalid kalid    0 Aug  2 12:50 output.txt
+-rw-rw-r-- 1 kalid kalid   15 Aug  1 17:25 README.md
+-rw-rw-r-- 1 kalid kalid    0 Aug  1 21:30 text2.txt
